@@ -30,4 +30,6 @@ ARBOLNAV 7 14
 
 *Demo*
 
-[![Video Demostrativo](https://img.youtube.com/vi/AIClVUIPfHY/0.jpg)](https://www.youtube.com/watch?v=AIClVUIPfHY)
+<a style="float:right" href="https://www.youtube.com/watch?v=AIClVUIPfHY" target="_blank">
+  <img alt="Video Demostrativo" src="https://img.youtube.com/vi/AIClVUIPfHY/0.jpg" />
+</a>
