@@ -35,7 +35,7 @@ void howto(){
  printf("\nArbolNav para DOS [v1.1.6.2]\n");
  printf("Sharak 2001-2004\n\n");
  printf("Sintaxis: ARBOLNAV <size> <tcr> <tbc> \n");
- printf(" <size>\t: Tama¤o del Arbol de Navidad.\n");
+ printf(" <size>\t: Tamaño del Arbol de Navidad.\n");
  printf(" <tcr> \t: Color de las luces.\t[Opcional] \n");
  printf(" <tbc> \t: Color de las hojas.\t[Opcional] \n");
  printf("\nEjemplos:\n\t ARBOLNAV 18 998 3\n");
@@ -48,7 +48,7 @@ int main(int argc, char **argv){
  short flg_w=0; char argqw;
 
  // Si solamente se escribe el nombre del programa
- // o se ejecuta al dar doble click entrara en este
+ // o se ejecuta al dar doble click entrará en este
  // modulo del programa donde se deplegara la forma
  // de usar dicho programa y la opcion de agregar
  // datos para dibujar un arbol.
@@ -150,7 +150,7 @@ void initArbol(short ysz,int tcrg,int tbcg){
 
 // [Graficador de Caracteres en Linea]
 // Uso: drwchx(arg1,arg2,arg3,arg4);
-// arg1..: Tama¤o de la franja de caracteres.
+// arg1..: Tamaño de la franja de caracteres.
 // arg2..: Caracter a representar.
 // arg3..: Color del caracter.
 // arg4..: Color de fondo del caracter.
@@ -159,8 +159,8 @@ void drwchx(short xsz,char obj,int tcr,int tbc){
  for(short cxa=0;cxa<xsz;cxa++){
 
 	// arg3=999 : Color aleatorio de las luces
-	// arg3=998 : Colores navide¤os aleatorios.
-	// arg3=997 : Colores navide¤os de las luces.
+	// arg3=998 : Colores navideños aleatorios.
+	// arg3=997 : Colores navideños de las luces.
 
 	switch(tcr){
 	 case 999: textcolor(random(16)); break;
