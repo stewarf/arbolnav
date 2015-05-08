@@ -24,7 +24,9 @@ Dibuja un arbol de navidad en MSDOS
 *Ejemplos*
 
 ARBOLNAV 18 998 3
+
 ARBOLNAV 22 997
+
 ARBOLNAV 7 14
 
 
