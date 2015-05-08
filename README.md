@@ -9,6 +9,7 @@ por [stewarf](https://github.com/stewarf)
 
 Dibuja un arbol de navidad en MSDOS
 
+![ARBOLNAV Ejemplo](https://dl.dropboxusercontent.com/u/12074021/arbolnav/example2.png)
 
 *Sintaxis*
 **ARBOLNAV size tcr tbc**
@@ -29,8 +30,4 @@ ARBOLNAV 7 14
 
 *Demo*
 
-[Video](https://www.youtube.com/watch?v=AIClVUIPfHY)
-
-![ARBOLNAV Ejemplo 1](https://dl.dropboxusercontent.com/u/12074021/arbolnav/example1.png)
-
-![ARBOLNAV Ejemplo 2](https://dl.dropboxusercontent.com/u/12074021/arbolnav/example2.png)
+[![Video Demostrativo](https://img.youtube.com/vi/AIClVUIPfHY/0.jpg)](https://www.youtube.com/watch?v=AIClVUIPfHY)
